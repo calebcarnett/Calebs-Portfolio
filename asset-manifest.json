@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.821baa89.css",
-    "main.js": "/static/js/main.ae8dc0d9.js",
-    "static/media/weather.png": "/static/media/weather.e7df1b9517b5c6be42aa.png",
-    "static/media/pawfriends.png": "/static/media/pawfriends.47f17a16825d22df795c.png",
-    "static/media/Movie-Application.png": "/static/media/Movie-Application.7dc214c4fa141e44a7cf.png",
-    "static/media/Wedding headshot.jpg": "/static/media/Wedding headshot.0d7aa5d75585f3dfd3ec.jpg",
-    "static/media/coolbeans.png": "/static/media/coolbeans.6b099117957fab3a7ef1.png",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "static/media/calebsresume.pdf": "/static/media/calebsresume.c065cd77ea33737a9be7.pdf",
-    "static/media/codequiz.png": "/static/media/codequiz.55afdb7097cc1db76ddb.png",
-    "static/media/take-notes.png": "/static/media/take-notes.e9e3cb252ac4b1c1b456.png",
-    "index.html": "/index.html",
-    "main.821baa89.css.map": "/static/css/main.821baa89.css.map",
-    "main.ae8dc0d9.js.map": "/static/js/main.ae8dc0d9.js.map"
+    "main.css": "/Calebs-Portfolio/static/css/main.8184cd4a.css",
+    "main.js": "/Calebs-Portfolio/static/js/main.58e33664.js",
+    "static/media/weather.png": "/Calebs-Portfolio/static/media/weather.e7df1b9517b5c6be42aa.png",
+    "static/media/pawfriends.png": "/Calebs-Portfolio/static/media/pawfriends.47f17a16825d22df795c.png",
+    "static/media/Movie-Application.png": "/Calebs-Portfolio/static/media/Movie-Application.7dc214c4fa141e44a7cf.png",
+    "static/media/Wedding headshot.jpg": "/Calebs-Portfolio/static/media/Wedding headshot.0d7aa5d75585f3dfd3ec.jpg",
+    "static/media/coolbeans.png": "/Calebs-Portfolio/static/media/coolbeans.6b099117957fab3a7ef1.png",
+    "static/media/bootstrap-icons.woff?": "/Calebs-Portfolio/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Calebs-Portfolio/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/calebsresume.pdf": "/Calebs-Portfolio/static/media/calebsresume.c065cd77ea33737a9be7.pdf",
+    "static/media/codequiz.png": "/Calebs-Portfolio/static/media/codequiz.55afdb7097cc1db76ddb.png",
+    "static/media/take-notes.png": "/Calebs-Portfolio/static/media/take-notes.e9e3cb252ac4b1c1b456.png",
+    "index.html": "/Calebs-Portfolio/index.html",
+    "main.8184cd4a.css.map": "/Calebs-Portfolio/static/css/main.8184cd4a.css.map",
+    "main.58e33664.js.map": "/Calebs-Portfolio/static/js/main.58e33664.js.map"
   },
   "entrypoints": [
-    "static/css/main.821baa89.css",
-    "static/js/main.ae8dc0d9.js"
+    "static/css/main.8184cd4a.css",
+    "static/js/main.58e33664.js"
   ]
 }
